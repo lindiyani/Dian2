@@ -1,7 +1,6 @@
 @extends('layouts.master')
 @section('content')
 <body>   <h1>Hallo</h1>
-       selamat datang .<br>
-       laravel emang keren banget
-    
+       selamat datang di halaman ini^^.<br>
+      
 @endsection

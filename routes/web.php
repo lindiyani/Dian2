@@ -34,8 +34,9 @@ Route::get('/mama', function () {
     return $query1;
 });
 
-
-
-
+Route::get('/lala', function () {
+	return view("lll");
+});
+ 
 
 
